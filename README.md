@@ -1,5 +1,3 @@
-# Times-Series-Analysis-Anomaly-Detection-
-
 # Introduction 
 This is a project I've done during my time at Xccelerate immersive data science programme. We were asked to do an anomly detection on a dataset given by our instrutor (I've also uploaded on Github). It's about the outbound utilization rate of one of the biggest telecom compnay in the U.K, with timestampe provided.
 
